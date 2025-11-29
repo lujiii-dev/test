@@ -66,3 +66,5 @@ publish/
 # Test results
 TestResults/
 *.trx
+/Zadatak2/Properties
+/Zadatak2/App.config
